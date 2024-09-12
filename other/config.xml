@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <set>
+        <BROWSERTYPE>Chrome</BROWSERTYPE>
+        <WEBSITEADDRESS>https://www.next.co.il/en</WEBSITEADDRESS>
+        <EMAIL>yochevedochana@gmail.com</EMAIL>
+        <PASSWORD>yocheved</PASSWORD>
+    </set>
+
+</config>
